@@ -11,7 +11,7 @@
             <section id="content-section" class="text-image-container">
 
                 <div class="section-title-container"> <br>
-                    <h2 class="section-title">LABORATORY 2</h2>
+                    <h2 class="section-title">LABORATORY 4 - Middleware</h2>
                     <p></p>
                 </div>
 

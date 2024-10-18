@@ -11,7 +11,7 @@
             <section id="content-section" class="text-image-container">
 
                 <div class="section-title-container"> <br>
-                    <h2 class="section-title">LABORATORY 1</h2>
+                    <h2 class="section-title">LABORATORY 1 - Set Up</h2>
                     <p>In this lab exercise, I set up a Laravel project, installed its dependencies, and initialized a Git repository. I configured the .env file with database details and created three essential views: homepage, about, and content. I also defined routes to navigate between these views. Additionally, I explored and documented the key directories and files in Laravel, taking screenshots of each step from installation to page navigation. This lab is a great stepping stone for learning how to create my first project using Herd.</p>
                 </div>
 
