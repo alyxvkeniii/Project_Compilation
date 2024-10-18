@@ -27,7 +27,7 @@
                     <li><a href="{{ url('/lab2') }}"class="button">LAB2</a></li>
                     <li><a href="{{ url('/lab3') }}" class="button">LAB3</a></li>
                     <li><a href="{{ url('/lab4') }}" class="button">LAB4</a></li>
-                    <li><a href="{{ url('/logout') }}" class="button">Logout</a></li>
+                    <li><a href="{{ url('/logout') }}" class="button">LOGOUT</a></li>
                 </ul>
             </nav>
         </header>
