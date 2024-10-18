@@ -22,11 +22,12 @@
     
             <nav>
                 <ul>
-                    <li><a href="{{ url('/') }}" class="button">HOME</a></li>
+                    <li><a href="{{ url('/homepage') }}" class="button">HOME</a></li>
                     <li><a href="{{ url('/lab1') }}" class="button">LAB1</a></li>
                     <li><a href="{{ url('/lab2') }}"class="button">LAB2</a></li>
                     <li><a href="{{ url('/lab3') }}" class="button">LAB3</a></li>
                     <li><a href="{{ url('/lab4') }}" class="button">LAB4</a></li>
+                    <li><a href="{{ url('/logout') }}" class="button">Logout</a></li>
                 </ul>
             </nav>
         </header>
@@ -41,7 +42,7 @@
 
         <!-- FOOTER -->
         <footer>
-            <p>&copy; WD Project Compilation Website.</p>
+            <p>&copy; Web Development Project Compilation Website.</p>
         </footer>
         <!-- END OF FOOTER -->
     </body>

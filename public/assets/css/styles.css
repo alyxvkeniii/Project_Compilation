@@ -32,8 +32,8 @@ header nav ul li a {
     text-decoration: none;
     padding: 10px;
     transition: background-color 0.3s ease;
-    font-size: 18px; /* Reduced font size */
-    justify-content: flex-end;
+    font-size: 16px; /* Reduced font size */
+    justify-content: space-around;
 }
 
 header nav ul li a:hover {
@@ -46,7 +46,7 @@ header nav ul li a:active {
 }
 
 header nav ul li {
-    margin-left: 40px; /* Reduced space between menu items */
+    margin-left: 20px; /* Reduced space between menu items */
 }
 
 header nav ul {
