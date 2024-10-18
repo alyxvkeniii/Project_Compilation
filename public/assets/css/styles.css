@@ -33,6 +33,7 @@ header nav ul li a {
     padding: 10px;
     transition: background-color 0.3s ease;
     font-size: 18px; /* Reduced font size */
+    justify-content: flex-end;
 }
 
 header nav ul li a:hover {
@@ -45,7 +46,7 @@ header nav ul li a:active {
 }
 
 header nav ul li {
-    margin-left: 450px; /* Reduced space between menu items */
+    margin-left: 40px; /* Reduced space between menu items */
 }
 
 header nav ul {
@@ -196,6 +197,8 @@ input:checked + label .description {
     transform: translateY(0) !important;
 }
 
+/* LABORATORY 1 */
+
 .card[for="a1"] {
     background-image: url('../images/a1.png');
 }
@@ -216,11 +219,79 @@ input:checked + label .description {
     background-image: url('../images/a5.png');
 }
 
+/* LABORATORY 2 */
+.card[for="b1"] {
+    background-image: url('../images/b1.png');
+}
+
+.card[for="b2"] {
+    background-image: url('../images/b2.png');
+}
+
+.card[for="b3"] {
+    background-image: url('../images/b3.png');
+}
+
+.card[for="b4"] {
+    background-image: url('../images/b4.png');
+}
+
+.card[for="b5"] {
+    background-image: url('../images/b5.png');
+}
+
+/* LABORATORY 3 */
+.card[for="c1"] {
+    background-image: url('../images/c1.png');
+}
+
+.card[for="c2"] {
+    background-image: url('../images/c2.png');
+}
+
+.card[for="c3"] {
+    background-image: url('../images/c3.png');
+}
+
+.card[for="c4"] {
+    background-image: url('../images/c4.png');
+}
+
+.card[for="c5"] {
+    background-image: url('../images/c5.png');
+}
+
+/* LABORATORY 4 */
+.card[for="d1"] {
+    background-image: url('../images/d1.png');
+}
+
+.card[for="d2"] {
+    background-image: url('../images/d2.png');
+}
+
+.card[for="d3"] {
+    background-image: url('../images/d3.png');
+}
+
+.card[for="d4"] {
+    background-image: url('../images/d4.png');
+}
+
+.card[for="d5"] {
+    background-image: url('../images/d5.png');
+}
+
 /* MODERN SLIDE IMAGE ANIMATION */
 
 
 /* Title Container */
 .section-title-container {
+    text-align: center; /* Center the title */
+    margin-bottom: 20px; /* Space between title and grid */
+}
+
+.section-title-container p{
     text-align: center; /* Center the title */
     margin-bottom: 20px; /* Space between title and grid */
 }
